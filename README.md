@@ -1,1 +1,1 @@
-<video src="https://cdn.discordapp.com/attachments/376404103431061514/782642180903665704/9nerd_126881173_1046436362485958_5239074962243091939_n.mp4" autoplay></video>
+<img src="https://cdn.discordapp.com/avatars/328637764763648011/0b5c477d0e24a3975ca895cbaf03cff9.png?size=2048">
