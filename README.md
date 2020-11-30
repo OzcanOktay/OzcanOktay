@@ -1,1 +1,1 @@
-<iframe width="1349" height="480" src="https://www.youtube.com/embed/_fwvGhYxnAM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video src="https://cdn.discordapp.com/attachments/376404103431061514/782642180903665704/9nerd_126881173_1046436362485958_5239074962243091939_n.mp4" autoplay></video>
